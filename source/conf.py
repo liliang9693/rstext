@@ -49,9 +49,9 @@ master_doc = 'index'
 
 # General information about the project.
 
-project = 'My_Study_ReStructuredText'
-copyright = '2018, zhaojiedi1992@outlook.com'
-author = 'zhaojiedi1992@outlook.com'
+project = '我的模板rst'
+copyright = '2019, yjy15680489038@163.com'
+author = 'thomas'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -146,7 +146,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'My_Study_ReStructuredText.tex', 'My\\_Study\\_ReStructuredText Documentation',
-     'zhaojiedi1992@outlook.com', 'manual'),]
+     'thomas', 'manual'),]
 
 
 # -- Options for manual page output ---------------------------------------
