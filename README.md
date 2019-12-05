@@ -1,4 +1,18 @@
-# reStructuredText文档模板
+# reStructuredText格式文档模板
+
+![demo图片](source/images/demo.png)
+
+**运行demo的方式：**
+
+1. 在项目根目录下执行
+
+````js
+./make clean /*清除*/
+
+./make html /*转换为html*/
+````
+
+2. 打开根目录下的`build`/`html`/`index.html`即可在浏览器中运行相应的demo。
 
 **文档模板demo在source文件夹下，主要内容是：**
 
